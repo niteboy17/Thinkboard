@@ -1,7 +1,7 @@
 # 🧠 Thinkboard
 
-<!-- Replace the image below with your actual thumbnail (recommended: 1280x640px) -->
-![Thinkboard Banner](https://placehold.co/1280x640?text=Thinkboard+Banner)
+<img src="screenshots/Thumbnail.png">
+
 
 A full-stack notes web application built with the **MERN stack** (MongoDB, Express, React, Node.js). Thinkboard lets users create, update, and delete notes with a clean, responsive UI — and includes rate limiting to keep things secure.
 
@@ -15,13 +15,13 @@ A full-stack notes web application built with the **MERN stack** (MongoDB, Expre
 
 | Home Page | Create Note | Note Detail |
 |:---------:|:-----------:|:-----------:|
-| <!-- Replace with your screenshot --> ![Home Page](https://placehold.co/800x500?text=Home+Page) | <!-- Replace with your screenshot --> ![Create Note](https://placehold.co/800x500?text=Create+Note+Page) | <!-- Replace with your screenshot --> ![Note Detail](https://placehold.co/800x500?text=Note+Detail+Page) |
+| <img src="screenshots/Home Page.png"> Home Page | <img src="screenshots/Create Note Page.png"> Create Note | <img src="screenshots/Note Detail Page.png"> Note Detail Page |
 
 ### Mobile
 
 | Home Page | Create Note | Note Detail |
 |:---------:|:-----------:|:-----------:|
-| <!-- Replace with your screenshot --> ![Mobile Home](https://placehold.co/375x812?text=Mobile+Home) | <!-- Replace with your screenshot --> ![Mobile Create](https://placehold.co/375x812?text=Mobile+Create) | <!-- Replace with your screenshot --> ![Mobile Detail](https://placehold.co/375x812?text=Mobile+Detail) |
+| <img src="screenshots/Home Page (Mobile View).png"> Home Page | <img src="screenshots/Create Note Page (Mobile View).png"> Create Page | <img src="screenshots/Note Detail Page (Mobile View).png"> Note Detail Page |
 
 ---
 
