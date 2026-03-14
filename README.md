@@ -13,15 +13,15 @@ A full-stack notes web application built with the **MERN stack** (MongoDB, Expre
 
 ### Desktop
 
-| Home Page | Create Note | Note Detail |
+| Home Page | Create Note Page | Note Detail Page |
 |:---------:|:-----------:|:-----------:|
-| <img src="screenshots/Home Page.png"> Home Page | <img src="screenshots/Create Note Page.png"> Create Note | <img src="screenshots/Note Detail Page.png"> Note Detail Page |
+| <img src="screenshots/Home Page.png">  | <img src="screenshots/Create Note Page.png">  | <img src="screenshots/Note Detail Page.png">  |
 
 ### Mobile
 
-| Home Page | Create Note | Note Detail |
+| Home Page | Create Note Page| Note Detail Page |
 |:---------:|:-----------:|:-----------:|
-| <img src="screenshots/Home Page (Mobile View).png"> Home Page | <img src="screenshots/Create Note Page (Mobile View).png"> Create Page | <img src="screenshots/Note Detail Page (Mobile View).png"> Note Detail Page |
+| <img src="screenshots/Home Page (Mobile View).png">  | <img src="screenshots/Create Note Page (Mobile View).png">  | <img src="screenshots/Note Detail Page (Mobile View).png">  |
 
 ---
 
